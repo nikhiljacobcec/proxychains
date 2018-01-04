@@ -1,4 +1,4 @@
-= ProxyChains ver. 4.2.0 README
+= ProxyChains ver. 4.2.1 README
 
 image:https://travis-ci.org/haad/proxychains.svg?branch=master["Build Status", link="https://travis-ci.org/haad/proxychains"]
 
